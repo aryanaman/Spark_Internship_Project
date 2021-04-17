@@ -1,0 +1,17 @@
+h1{
+  height:50vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div span{
+  display: inline-grid;
+  border :2px white solid;
+  border-radius: 15px;
+  height:150px;
+  width:200px;
+  margin-top:0.3vh;
+  margin-right: 30px;
+  text-align: center;
+}
